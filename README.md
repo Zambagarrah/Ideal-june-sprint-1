@@ -13,6 +13,7 @@
 
 ### Creating a Django App:
 
+
 Follow the steps below:
 
 1. Create a virtual environment, make sure you are using python version 3.10 and above
